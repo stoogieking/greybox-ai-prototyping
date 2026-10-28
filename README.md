@@ -106,8 +106,5 @@ A greybox prototype proves the feel. It isn't built to grow into a finished game
 - Squirrel Eiserloh, [Juicing Your Cameras With Math](https://gdcvault.com/play/1023146/Math-for-Game-Programmers-Juicing) (GDC 2016): screen shake
 - Glenn Fiedler, [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/): the fixed 60 Hz loop the first-build prompt asks for
 
-## License and credits
 
-The prompts are under the [MIT License](LICENSE). Heavy Hands, shown in the screenshot, is not.
-
-Created by Kostis Spyroglou, developed with the help of Claude.
+Mashed together (Created) by Kostis Spyroglou, made sense of (Developed) with Claude Code.
