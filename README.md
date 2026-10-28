@@ -37,7 +37,7 @@ These prompts make prototypes that answer design questions. They don't make prod
 - **One HTML file.** It opens in a browser, with no engine, installs or build steps. It's quick to make, share and throw away.
 - **Expose the gameplay variables.** Ask the AI to put game-feel values on sliders. They become the record of what to keep, tune and cut (see [below](#keep-tune-cut)).
 - **Tune by feel.** Change one number, play, compare. "Heavier" is vague in a prompt and obvious on the controls.
-- **Build systems, then combine them.** In Heavy Hands II, grabbable enemies plus enemies that shoot produced a human shield, which wasn't planned on paper.
+- **Build systems, then combine them.** 
 - **Fix before you add.** Don't build new features on something that doesn't work yet.
 - **One change per prompt.** When something breaks, you know what caused it.
 - **Learn enough code to judge the output.** You don't have to write it, but you need to notice when a fix is wrong.
