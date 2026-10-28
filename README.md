@@ -13,7 +13,7 @@ Each prototype is a browser build with simple shapes instead of art, made to ans
 
 ## Not a coder, but…
 
-I'm a game designer, not a programmer. I can't write this code myself. I read it to follow roughly what it does and to catch fixes that don't make sense, and I test everything by playing.
+I'm not a coder. I'm not even a game designer. But having endlessly meddled with the form and seeing the capabilities of newer models, I started wondering how far I could push an idea without knowing how to actually build it.
 
 These prompts make prototypes that answer design questions. They don't make production code. A real game would need its code rebuilt properly (see [Moving to a real game](#moving-to-a-real-game)).
 
