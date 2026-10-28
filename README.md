@@ -1,6 +1,6 @@
 # Greybox Prototyping
 
-**Prompt templates for making game prototypes with AI-written code: one gameplay question, one HTML file, tuned by hand.**
+**Prompt templates and tips for making game prototypes with AI-written code: one gameplay question, one HTML file, tuned by hand.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-draft-orange)
