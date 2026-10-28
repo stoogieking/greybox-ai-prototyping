@@ -1,3 +1,12 @@
+# 01 · First build
+
+Use this for the first playable version of a new prototype. Fill in every `[BRACKET]` and delete sections that don't apply. If you can't write the one question, you're not ready to prompt.
+
+The examples in brackets come from the prompt that built Heavy Hands, a third-person melee slice.
+
+---
+
+```
 Build a browser-based [GENRE AND CAMERA, e.g. third-person melee combat] [SCOPE, e.g. vertical slice] as ONE self-contained HTML file: no build step, no asset files. The only external file allowed is [three.js r128 from cdnjs / nothing: use the 2D canvas]. Everything is greybox: [e.g. boxes, capsules, flat-coloured materials].
 
 ## Goal
@@ -99,3 +108,6 @@ It must run by opening the file directly in a modern browser, with no console er
 - [ ] [One check per core feature, e.g. Parry-to-counter feels rewarding]
 - [ ] [e.g. Two distinct routes through the level]
 - [ ] Tuning panel works, pauses the game, persists, and Copy values works
+```
+
+**Tip:** a prompt this size works for a vertical slice. For a quick test of one mechanic, delete Level, Dialogue and most of Enemies, and keep Goal, Technical rules, Controls, Core system, Juice and Tuning panel.
